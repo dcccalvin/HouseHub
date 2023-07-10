@@ -7,7 +7,7 @@ Features ✨
 
 📸 High-Quality Images: Get a glimpse of each house through stunning, high-resolution images. Visualize your future home in detail.
 
-💼 User Profiles: Create your own user profile to save favorite listings, track property history, and easily connect with sellers or landlords.
+💼 User Profiles: Create your own user profile to easily access app and connect with sellers or landlords.(🚨🚨🚨A User should be logged in in  order to access the app)
 
 📋 Detailed Descriptions: Access comprehensive descriptions for each property, including key features, amenities, and contact details. Make informed decisions with all the necessary information at your fingertips.
 
